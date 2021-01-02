@@ -4,4 +4,4 @@ from django.shortcuts import render
 from django.http import HttpResponse
 
 def index(request):
-    return HttpResponse("سلام، دنیا. شما در یک فهرست نظر سنجی هستید.")
+    return HttpResponse("<h1>"+"سلام، دنیا. شما در یک فهرست نظر سنجی هستید."+"<h1>")
