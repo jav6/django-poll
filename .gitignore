@@ -1,3 +1,6 @@
 __pycache__/
 db.sqlite3
-.env
+.venv
+00_dj_20_polls_req/
+.vscode/
+todo.txt
